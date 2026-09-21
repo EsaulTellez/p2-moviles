@@ -1,0 +1,2 @@
+Este archivo demuestra la operacion de lectura en el directorio mcp-sandbox.
+Creado para la Practica 1 de Moviles II por Esaul Tellez.
