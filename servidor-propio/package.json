@@ -1,0 +1,18 @@
+{
+  "name": "mcp-servidor-propio",
+  "version": "1.0.0",
+  "description": "Servidor MCP personalizado mínimo con SDK oficial para Práctica 1",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
